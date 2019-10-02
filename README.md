@@ -9,6 +9,7 @@ So far, the following projects have been integrated to this repo:
 
 - [Python Algebra Solver](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Algebra-Solver) by [Sengxay Xayachack](https://github.com/frankxayachack)
 - [AI chatbot](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Artificial-intelligence_bot) by [umar abdullahi](https://github.com/umarbrowser)
+- [MorseCode-Encoder-Decoder](https://github.com/Sk70249/Morse-Code-Encryter-Decrypter#morse-code-encryter-decrypter) by [Sk70249](https://github.com/Sk70249)
 - [Bitcoin price GUI](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Bitcoin-Price-GUI) by [Amirul Abu](https://github.com/amirulabu)
 - [Checksum tool](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Checksum) by [Austin Ewens](https://github.com/aewens)
 - [Codechef autosubmitter](https://github.com/hastagAB/Awesome-Python-Scripts/tree/master/Codechef-Code-Submitter) by [Harshit Mahajan](https://github.com/hmahajan99)
